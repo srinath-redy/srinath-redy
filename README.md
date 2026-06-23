@@ -20,29 +20,33 @@ Machine Learning, AI Systems, Distributed Systems, Compilers, Backend Engineerin
 
 ## Projects
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="48%" valign="top" style="padding-right: 16px;">
-      <h3>Srinath-sNeuralNetworks</h3>
-      <p>A neural network framework built completely from scratch in C++ without external ML libraries.</p>
-      <ul>
-        <li>Forward propagation</li>
-        <li>Backpropagation</li>
-        <li>Gradient descent</li>
-        <li>Matrix operations</li>
-        <li>Deep learning fundamentals</li>
-      </ul>
+    <td width="48%" valign="top" style="padding-right: 16px; vertical-align: top;">
+      <div style="border: 1px solid #30363d; border-radius: 16px; padding: 18px; background: #0d1117;">
+        <h3>Srinath-sNeuralNetworks</h3>
+        <p>A neural network framework built completely from scratch in C++ without external ML libraries.</p>
+        <ul>
+          <li>Forward propagation</li>
+          <li>Backpropagation</li>
+          <li>Gradient descent</li>
+          <li>Matrix operations</li>
+          <li>Deep learning fundamentals</li>
+        </ul>
+      </div>
     </td>
-    <td width="48%" valign="top" style="padding-left: 16px;">
-      <h3>ResearchForge-AI</h3>
-      <p>Production-grade multi-agent research platform that transforms a user query into citation-backed research reports.</p>
-      <ul>
-        <li>Multi-agent workflows</li>
-        <li>RAG</li>
-        <li>LLM orchestration</li>
-        <li>Research automation</li>
-        <li>Report generation</li>
-      </ul>
+    <td width="48%" valign="top" style="padding-left: 16px; vertical-align: top;">
+      <div style="border: 1px solid #30363d; border-radius: 16px; padding: 18px; background: #0d1117;">
+        <h3>ResearchForge-AI</h3>
+        <p>Production-grade multi-agent research platform that transforms a user query into citation-backed research reports.</p>
+        <ul>
+          <li>Multi-agent workflows</li>
+          <li>RAG</li>
+          <li>LLM orchestration</li>
+          <li>Research automation</li>
+          <li>Report generation</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
@@ -60,17 +64,17 @@ Machine Learning, AI Systems, Distributed Systems, Compilers, Backend Engineerin
 
 ### AI / ML
 
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-111111?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQImWNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-111111?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQImWNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=)
-![LLMs](https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQImWNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=)
-![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQImWNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi-Agent%20Systems-111111?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQImWNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-111111?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQImWNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-2F80ED?style=for-the-badge&labelColor=161B22&color=2F80ED)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge&labelColor=161B22&color=8B5CF6)
+![LLMs](https://img.shields.io/badge/LLMs-14B8A6?style=for-the-badge&labelColor=161B22&color=14B8A6)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&labelColor=161B22&color=0EA5E9)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi-Agent%20Systems-6366F1?style=for-the-badge&labelColor=161B22&color=6366F1)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-10B981?style=for-the-badge&labelColor=161B22&color=10B981)
 
 ### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-111111?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQImWNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=)
+![APIs](https://img.shields.io/badge/APIs-ffffff?style=for-the-badge&labelColor=161B22&color=2D3748)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools
@@ -83,13 +87,13 @@ Machine Learning, AI Systems, Distributed Systems, Compilers, Backend Engineerin
 
 ## GitHub Analytics
 
-<table>
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=srinath-redy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Srinath's GitHub stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=srinath-redy&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
+    <td width="50%" style="padding-right: 10px;"><img src="https://github-readme-stats.vercel.app/api?username=srinath-redy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Srinath's GitHub stats" /></td>
+    <td width="50%" style="padding-left: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinath-redy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinath-redy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /></td>
+    <td colspan="2" align="center" style="padding-top: 16px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srinath-redy&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
@@ -97,13 +101,12 @@ Machine Learning, AI Systems, Distributed Systems, Compilers, Backend Engineerin
 
 ## Activity
 
-<table>
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srinath-redy&theme=dark" alt="Profile Summary" /></td>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=srinath-redy&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" /></td>
+    <td width="50%" style="padding-right: 10px;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srinath-redy&theme=dark" alt="Profile Summary" /></td>
+    <td width="50%" style="padding-left: 10px;"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=srinath-redy&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" /></td>
   </tr>
 </table>
-
 
 ### Contribution Snake
 
@@ -131,6 +134,8 @@ Machine Learning, AI Systems, Distributed Systems, Compilers, Backend Engineerin
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Portfolio: [your-portfolio.example.com](https://your-portfolio.example.com)
+| Platform | Contact |
+|---|---|
+| LinkedIn | [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin) |
+| Email | [your.email@example.com](mailto:your.email@example.com) |
+| Portfolio | [your-portfolio.example.com](https://your-portfolio.example.com) |
