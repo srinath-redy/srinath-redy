@@ -104,13 +104,13 @@ Machine Learning, AI Systems, Distributed Systems, Compilers, Backend Engineerin
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" style="padding-right: 10px;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srinath-redy&theme=dark" alt="Profile Summary" /></td>
-    <td width="50%" style="padding-left: 10px;"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=srinath-redy&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" /></td>
+    <td width="50%" style="padding-left: 10px;"><img src="https://github-readme-activity-graph.vercel.app/graph?username=srinath-redy&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" /></td>
   </tr>
 </table>
 
-### Contribution Snake
+### Contribution Heatmap
 
-<img src="https://github-contribution-grid-snake.herokuapp.com/?user=srinath-redy&theme=dark&area=true" alt="Contribution Grid Snake" />
+<img src="https://ghchart.rshah.org/srinath-redy" alt="Contribution Heatmap" />
 
 ---
 
