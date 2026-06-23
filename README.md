@@ -136,6 +136,6 @@ Machine Learning, AI Systems, Distributed Systems, Compilers, Backend Engineerin
 
 | Platform | Contact |
 |---|---|
-| LinkedIn | [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin) |
-| Email | [your.email@example.com](mailto:your.email@example.com) |
-| Portfolio | [your-portfolio.example.com](https://your-portfolio.example.com) |
+| LinkedIn | [linkedin.com/in/kotha-srinath-reddy](https://www.linkedin.com/in/kotha-srinath-reddy) |
+| Email | [kothasrinathreddy0@gmail.com](mailto:kothasrinathreddy0@gmail.com) |
+
