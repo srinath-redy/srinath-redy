@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=FFFFFF&background=0D1117&width=760&lines=Srinath+Reddy;Building+AI+Systems+from+First+Principles;Neural+Networks+•+Multi-Agent+Systems+•+Research+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&pause=2000&color=FFFFFF&background=0D1117&width=760&lines=Srinath+Reddy;Building+AI+Systems+from+First+Principles;Neural+Networks+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Research+Engineering" alt="Typing SVG" />
 </div>
 
 ---
